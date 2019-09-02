@@ -1,0 +1,13 @@
+/target/
+
+
+# archivos a ignorar de eclipse
+.project
+.classpath
+/.settings/
+
+
+
+# archivos a ignorar de intellij
+.idea
+*.iml
