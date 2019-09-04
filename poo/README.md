@@ -1,8 +1,9 @@
-POO
+Programación orientada a objetos
 
 1. Clase(abstractas, concretas) sustantivos singulares, UpperCamelCase
 2. Objeto loweCamelCase
 3. visibilidad(+ public, - private, ~package, #protected)
+
 4. Atributo(+ public, - private, ~package, #protected) puede primitivo o referencia, lowerCameCase
 5. Metodo(+ public, - private, ~package, #protected) acciones verbos, lowerCamelCase
 6. encapsulamiento
