@@ -26,15 +26,5 @@ public class App3 {
         String asdf= "r";
         char io = asdf.charAt(0);
 
-        System.out.println("hola mundo".charAt(5));
-
-
-
-
-
-
-
-
-
     }
 }
