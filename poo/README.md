@@ -5,7 +5,6 @@ Programación orientada a objetos
 3. visibilidad(+ public, - private, ~package, #protected)
 4. Atributo(+ public, - private, ~package, #protected) puede primitivo o referencia, lowerCameCase
 5. Metodo(+ public, - private, ~package, #protected) acciones verbos, lowerCamelCase
-
 6. encapsulamiento
 7. metodos mutadores(setter) y accesores(getter)
 8. constructor: sirve para crear los objetos
@@ -13,6 +12,7 @@ Programación orientada a objetos
 10. constructor con parametros
 11. sobrecarga de constructores (puede tener mu muchos constructores con firmas diferentes)
 12. sobrecarga de metodos
+
 13. atributos estaticos
 14. atributos final
 15. metodos estaticos
