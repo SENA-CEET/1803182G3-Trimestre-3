@@ -12,9 +12,9 @@ Programación orientada a objetos
 10. constructor con parametros
 11. sobrecarga de constructores (puede tener mu muchos constructores con firmas diferentes)
 12. sobrecarga de metodos
-
 13. atributos estaticos
 14. atributos final
+
 15. metodos estaticos
 16. Generalización (herencia)
 17. clases finales: nadie puede heredar de ella
