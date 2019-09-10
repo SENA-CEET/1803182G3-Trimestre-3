@@ -14,13 +14,13 @@ Programación orientada a objetos
 12. sobrecarga de metodos
 13. atributos estaticos
 14. atributos final
-
 15. metodos estaticos
 16. Generalización (herencia)
 17. clases finales: nadie puede heredar de ella
 18. sobreeescritura de metodos
 19. metodos abstractos
 20. metodos finales: metodos que o se puedes sobreescribir
+
 21. dependencias
 22. alta cohesión bajo acoplamiento
 23. super(), super, this
