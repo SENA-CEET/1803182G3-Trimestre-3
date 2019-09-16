@@ -20,10 +20,11 @@ Programación orientada a objetos
 18. sobreeescritura de metodos
 19. metodos abstractos
 20. metodos finales: metodos que o se puedes sobreescribir
-
 21. dependencias
 22. alta cohesión bajo acoplamiento
 23. super(), super, this
+
+
 24. Polimorfismo 
 25. casting, autocasting 
 26. Wrappers (boxing, unboxing, autounboxing)
