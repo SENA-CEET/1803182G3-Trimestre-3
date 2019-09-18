@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="5.5" y="353.0">co.edu.sena.poo.tema16dependencia.App</node>
+    <node x="0.0" y="76.0">co.edu.sena.poo.tema16dependencia.Llave</node>
+    <node x="15.5" y="0.0">co.edu.sena.poo.tema16dependencia.LlaveMaestra</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="co.edu.sena.poo.tema16dependencia.App" target="co.edu.sena.poo.tema16dependencia.Llave">
+      <point x="0.0" y="-36.0" />
+      <point x="0.0" y="113.5" />
+    </edge>
+    <edge source="co.edu.sena.poo.tema16dependencia.Llave" target="co.edu.sena.poo.tema16dependencia.LlaveMaestra">
+      <point x="0.0" y="-113.5" />
+      <point x="0.0" y="13.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="256.5" y="14.5" />
+  <SelectedNodes>
+    <node>co.edu.sena.poo.tema16dependencia.App</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
