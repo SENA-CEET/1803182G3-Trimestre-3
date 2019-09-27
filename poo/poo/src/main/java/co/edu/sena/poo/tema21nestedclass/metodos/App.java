@@ -1,6 +1,7 @@
 package co.edu.sena.poo.tema21nestedclass.metodos;
 
 import javax.swing.*;
+import java.util.Collections;
 
 public class App {
     public static void main(String[] args) {
@@ -19,7 +20,6 @@ public class App {
         Perro p1 = new Perro();
         p1.setNombre("pepe");
         System.out.println(p1.getNombre());
-
 
     }
 }
