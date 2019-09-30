@@ -29,16 +29,16 @@ Programación orientada a objetos
 27. API (Aplication program interface)
 28. Realiziación
 29. Interfaces (Generalizacion, Implementación, metodos default java 8)
-
 30. clases anidadas
 30.1 Nested classes
 30.1.1. static (static nested classes)
 30.1.2. static (Non-static nested classes or inner classes)
 30.2. Anonymous Classes
 31.3. inner class into methods
+
 32. asociación (asociación, composición, agregación) simples
 33. sobreescritura del metodo equals, hashcode
-
 34. Collections (List)
 35. metodo toString()
 36. asosiation class
+
